@@ -84,7 +84,7 @@
     "chai-as-promised": "^7.1.1",
     "chai-subset": "^1.6.0",
     "constructs": "^10.1.137",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.6.1",
     "dynamodb-toolbox": "^0.6.1",
     "esm": "^3.2.25",
     "joi": "^17.7.0",
