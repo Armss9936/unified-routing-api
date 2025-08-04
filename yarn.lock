@@ -3120,10 +3120,10 @@ concat-map@0.0.1:
   resolved "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
-constructs@^10.1.137:
-  version "10.1.302"
-  resolved "https://registry.npmjs.org/constructs/-/constructs-10.1.302.tgz"
-  integrity sha512-KK+tyZ8s4CexAGNl3mNNgBErTIDqWCuJnhruJgiPr5GaTCLG1VxGLufOlUHvTbgCUe/PYVf2Ea7iOmO6n36CaQ==
+constructs@^10.4.2:
+  version "10.4.2"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.4.2.tgz#e875a78bef932cca12ea63965969873a25c1c132"
+  integrity sha512-wsNxBlAott2qg8Zv87q3eYZYgheb9lchtBfjHzzLHtXbttwSrHPs1NNQbBrmbb1YZvYg2+Vh0Dor76w4mFxJkA==
 
 convert-source-map@^1.6.0, convert-source-map@^1.7.0:
   version "1.9.0"
