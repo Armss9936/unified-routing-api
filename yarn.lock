@@ -3347,10 +3347,10 @@ dunder-proto@^1.0.1:
     es-errors "^1.3.0"
     gopd "^1.2.0"
 
-dynamodb-toolbox@^0.6.1:
-  version "0.6.5"
-  resolved "https://registry.npmjs.org/dynamodb-toolbox/-/dynamodb-toolbox-0.6.5.tgz"
-  integrity sha512-xrhGHNyTWiEl8PaMFJLsznwTkc+uqL/43h7uvJg0Vh9Ddx9Bri0wQmtJfmR29Qs4fB5dNcc/QFS4ZWgNnkTvUQ==
+dynamodb-toolbox@^0.9.5:
+  version "0.9.5"
+  resolved "https://registry.yarnpkg.com/dynamodb-toolbox/-/dynamodb-toolbox-0.9.5.tgz#b02b621120840d1e0267528d4e6f5d37f88e4ce1"
+  integrity sha512-Zckk2fKZoH5nKdxxB0vWuxSfS8pG4ofojKq2seNu1oFSSyndpvOTcACWalWIYl7h6WZ6prgJnFH/SglskQ+iYA==
   dependencies:
     deep-copy "^1.4.2"
     ts-toolbelt "^9.6.0"
