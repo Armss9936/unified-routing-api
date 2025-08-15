@@ -74,7 +74,7 @@
     "@uniswap/smart-order-router": "3.25.0",
     "@uniswap/uniswapx-sdk": "1.5.0",
     "@uniswap/universal-router-sdk": "1.7.1",
-    "aws-cdk-lib": "2.187.0",
+    "aws-cdk-lib": "2.189.1",
     "aws-embedded-metrics": "^4.1.0",
     "axios": "^1.8.3",
     "axios-retry": "^3.4.0",
