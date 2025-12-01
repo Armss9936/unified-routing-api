@@ -77,7 +77,7 @@
     "aws-cdk-lib": "2.187.0",
     "aws-embedded-metrics": "^4.1.0",
     "axios": "^1.8.3",
-    "axios-retry": "^3.4.0",
+    "axios-retry": "^3.9.1",
     "bignumber.js": "^9.1.2",
     "bunyan": "^1.8.15",
     "chai": "^4.3.7",
