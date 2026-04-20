@@ -85,7 +85,7 @@
     "chai-subset": "^1.6.0",
     "constructs": "^10.4.2",
     "dotenv": "^16.0.3",
-    "dynamodb-toolbox": "^0.6.1",
+    "dynamodb-toolbox": "^0.9.5",
     "esm": "^3.2.25",
     "joi": "^17.7.0",
     "ms": "^2.1.3",
